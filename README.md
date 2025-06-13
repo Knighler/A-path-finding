@@ -9,10 +9,7 @@ This project implements the A* (A-star) pathfinding algorithm on a 2D maze and v
 - Real-time visualization of the shortest path
 - Adjustable parameters for maze generation
 
-## Demo
 
-![A* Visualizer Demo](https://user-images.githubusercontent.com/your_demo.gif)  
-*Note: Add a GIF or screen recording of the visualizer in action.*
 
 ## Requirements
 
